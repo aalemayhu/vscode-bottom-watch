@@ -1,4 +1,4 @@
-#⌚️Bottom Watch
+# ⌚️Bottom Watch
 
 Show the current time in the status bar.
 
