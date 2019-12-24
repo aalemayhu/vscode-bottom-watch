@@ -7,4 +7,4 @@ Show the current time in the status bar.
 
 This project was bootstrapped using the [vscode-extension-samples][ves].
 
-[ves]: ttps://raw.githubusercontent.com/Microsoft/vscode-extension-samples/master/statusbar-sample
+[ves]: https://raw.githubusercontent.com/Microsoft/vscode-extension-samples/master/statusbar-sample
